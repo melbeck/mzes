@@ -83,7 +83,7 @@ projects[views_slideshow][subdir] = "contrib"
 ; MZES Features
 projects[mzes_features][type] = module
 projects[mzes_features][download][type] = git
-projects[mzes_features][download][url] = git@github.com:mzes/mzes_features.git
+projects[mzes_features][download][url] = git://github.com/mzes/mzes_features.git
 projects[mzes_features][download][branch] = dev
 projects[mzes_features][subdir] = features
 
